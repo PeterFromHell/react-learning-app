@@ -2,7 +2,7 @@ import React from 'react'
 import Head from 'next/head'
 import './globals.css'
 
-const rootLayout = ( { children } ) => {
+const RootLayout = ( { children } ) => {
     return (
         <>
             <html>
@@ -19,4 +19,4 @@ const rootLayout = ( { children } ) => {
     )
 }
 
-export default rootLayout
+export default RootLayout

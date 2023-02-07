@@ -1,0 +1,9 @@
+.git
+.svn
+.hg
+node_modules
+package.json
+package-lock.json
+README.md
+dist
+

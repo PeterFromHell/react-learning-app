@@ -1,6 +1,6 @@
 import React from 'react'
 import PocketBase from 'pocketbase'
-import Lesson from './Lesson'
+import Lesson from '../../components/Lesson'
 
 export const dynamic = 'auto',
     dynamicParams = true,

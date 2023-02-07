@@ -16,11 +16,14 @@
     "pocketbase": "^0.9.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-iframe": "^1.8.5"
+    "three-orbitcontrols": "^2.110.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.11.4",
     "postcss": "^8.4.20",
-    "tailwindcss": "^3.2.4"
+    "tailwindcss": "^3.2.4",
+    "three": "^0.149.0"
   }
 }
